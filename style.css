@@ -1,0 +1,105 @@
+    
+        body{
+            background-image: url(fundo_header.png);
+            background-size:contain;
+            padding: 0px;
+            margin: 0px;
+            font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+
+        #container{
+            background-color: rgb(255, 228, 199);
+            width: 1000px;
+            margin: auto;
+            margin-top: 100px;
+            border-radius: 1%;
+        }
+
+        header{
+            
+            height: 120px;
+            margin-top: -45px;
+        }
+
+        #logo{
+            
+            color: rgb(0, 102, 0);
+            padding-left: 30px;
+            padding-top: 20px;
+            line-height: 100px;
+            font-size: 60px;
+            
+        }
+
+        #logo_img{
+            height: 60px;
+            padding-left: 20px;
+        }
+
+        header a{
+            text-decoration: none;
+            background-color: rgb(0, 102, 0);
+            padding: 15px;
+            
+            color: rgb(255, 205, 140);
+        }
+
+        #link{
+            background-color: rgb(0, 102, 0);
+            padding: 15px;
+            text-align: center;
+            margin-top: -40px;
+        }
+
+        .texto_principal{
+            
+            padding-left: 30px;
+            padding-right: 10px;
+            font-size: 20px;
+        }
+
+        #link_contato{
+            text-align: center;
+        }
+
+        .link_principal{
+            background-color: rgb(0, 102, 0);
+            color: rgb(255, 228, 199);
+            padding: 10px;
+            border-radius: 10px;
+            text-align: center;
+            text-decoration: none;
+            
+            font-size: 20px;
+        }
+        
+        #imagem_principal{
+            height: 400px;
+            width: 500px;
+            display:flex;
+            margin-left: auto;
+            margin-right: auto 
+        }
+        .resto_imagens{
+            height: 400px;
+            display:flex;
+            margin-left: auto;
+            margin-right: auto 
+        }
+        #div_videos{
+            text-align: center;
+        }
+        .videos{
+            height: 300px;
+        }
+
+        h2{
+            text-align: center;
+            font-size: 40px;
+        }
+
+        footer{
+            color: black;
+            text-align: center;
+            font-style: italic;
+        }
